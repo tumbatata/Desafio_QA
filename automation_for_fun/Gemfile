@@ -1,0 +1,15 @@
+source "https://rubygems.org"
+
+gem 'ffi', '1.9.14'
+gem 'capybara'
+gem "rspec", :require => "spec"
+gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'rake'
+gem 'site_prism'
+gem 'syntax'
+gem 'poltergeist'
+gem 'rubocop'
+gem "page-object"
+gem "rufo"
+
